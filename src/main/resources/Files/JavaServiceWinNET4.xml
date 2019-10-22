@@ -1,0 +1,8 @@
+<configuration>
+  <id>JavaService</id>
+  <name>JavaService (powered by WinSW)</name>
+  <description>This service is a service created from a minimal configuration</description>
+  <group>appssuff solution</group>
+  <executable>java</executable>
+  <arguments>-jar %BASE%\JavaService.jar</arguments>
+</configuration>
